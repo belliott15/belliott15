@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning to become a Software Developer
 - 💞️ I’m looking to collaborate on anything/everything I can learn to gain a better understanding of this field.
 - 📫 How to reach me belliott1516@gmail.com
-- 
 
 <!---
 belliott15/belliott15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
