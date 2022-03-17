@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @belliott15
 - 👀 I’m interested in Rock Climbing, Circus, and Marvel Comics
-- 🌱 I’m currently learning to become a Software Developer
+- 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on anything/everything I can learn to gain a better understanding of this field.
 - 📫 How to reach me belliott1516@gmail.com
 
