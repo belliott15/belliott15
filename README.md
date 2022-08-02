@@ -3,11 +3,11 @@
 
 - 👋 Hi, I’m Beau!
 - Just your average Software Engineer looking to make the world a little more fun and more accessible for everyone.
-- I love rock climbing 🧗‍♂️, circus 🎪 , and all things Disney.
+- ❤️ I love rock climbing 🧗‍♂️, circus 🎪 , and all things Disney.
 - 📚: Currently learning more about PostgresSQL and backend development as well as typescript and Tailwindcss.
 - 🛠: I'm looking to collaborate on beautiful and funcitonal web applications or anything fun and nonsensical.  
 - 📬: You can contact me by email belliott1516@gmail.com.
-- Happy coding and Happy Pride 🏳️‍🌈!
+- Happy coding!
 
 <!---
 belliott15/belliott15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
