@@ -1,5 +1,4 @@
-![Linked in banner (1)](https://user-images.githubusercontent.com/97813843/173118457-1d98de93-a16b-441f-8fb9-13c498364613.png)
-![banner](https://user-images.githubusercontent.com/97813843/173118463-377bcb5a-798a-4a1e-8b64-01a3ecbf13be.gif)
+![Linked in banner](https://user-images.githubusercontent.com/97813843/225723048-18351cd4-e990-40bb-a5b9-c9c14261565d.png)
 
 - 👋 Hi, I’m Beau!
 - Just your average Software Engineer looking to make the world a little more fun and more accessible for everyone.
